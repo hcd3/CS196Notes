@@ -1,0 +1,3 @@
+# Instructions
+ 
+To give students joining a chance to catch up and since there is not much to do, there is no homework. Here is a simple tutorial to do with Vim - https://www.openvim.com/. When starting up Emacs with no file, you will be at a menu screen. Enter the command to do the Emacs tutorial. Here are some further tutorials and references : http://ergoemacs.org/emacs/emacs.html, https://emacs.sexy/. 
