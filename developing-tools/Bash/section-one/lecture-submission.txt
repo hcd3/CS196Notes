@@ -1,9 +1,9 @@
-1. 
-2. 
-3. 
-4a. 
-4b. 
-5. 
-6. 
-7. 
-8. 
+1.:set autoindent 
+2.:sav
+3.:set nowrap 
+4a.$
+4b.} 
+5.C-s 
+6.split-window-right 
+7.split-window-below 
+8.#homework#
