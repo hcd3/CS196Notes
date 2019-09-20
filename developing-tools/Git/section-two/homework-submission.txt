@@ -1,2 +1,2 @@
-1. 
-2. 
+1.https://gitlab.engr.illinois.edu/cs196/student-repos/hcd3/merge_requests/8/diffs?commit_id=99091693c0b1e43b391868daee9e4829993417ba 
+2.https://gitlab.engr.illinois.edu/cs196/student-repos/hcd3/merge_requests/8 
