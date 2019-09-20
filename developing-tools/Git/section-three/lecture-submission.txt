@@ -1,8 +1,8 @@
-1. 
-2.
-3. 
-4. 
-5.
-6. 
-7. 
-8. 
+1.Shows the last person to have changed a line in the document up to the last commit and what time they changed it. 
+2.Removes all untracked files from the working tree.
+3.Saves all the local modifications on your working directory in its current state, and then changes the working directory to match the last commit. 
+4.Modifies the most recent commit without having to create a new commit. 
+5.Describes the HEAD commit and also demonstrates the log of the commits as well as any textual differences.
+6.Allows you to search for a string or expression throughout the working directory or any of the branches of a committed tree. 
+7.Finds which commit introduced an error/bug to your current project by using a search algorithm that searches between two predefined commits. 
+8.Script that checks the commit message for spelling errors before you commit it. 
