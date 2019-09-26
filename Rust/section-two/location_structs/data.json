@@ -1,0 +1,49 @@
+{
+    [
+	{
+	    "name": "Rishi",
+	    "location": "BAY_AREA",
+	    "age": 20
+	},
+	{
+	    "name": "Jackie",
+	    "location": "NAPERVILLE",
+	    "age": 19
+	},
+	{
+	    "name": "Zac",
+	    "location": "NEW_JERSEY",
+	    "age": 21
+	},
+	{
+	    "name": "Clara",
+	    "location": "BAY_AREA",
+	    "age": 19
+	},
+	{
+	    "name": "PETER",
+	    "location": "BAY_AREA",
+	    "age": 20
+	},
+	{
+	    "name": "Melissa",
+	    "location": "NAPERVILLE",
+	    "age": 19
+	},
+	{
+	    "name": "Jatin",
+	    "location": "NAPERVILLE",
+	    "age": 20
+	},
+	{
+	    "name": "Yash",
+	    "location": "BAY_AREA",
+	    "age": 20
+	},
+	{
+	    "name": "Zach",
+	    "location": "NEW_JERSEY",
+	    "age": 21
+	}
+    ]
+}
