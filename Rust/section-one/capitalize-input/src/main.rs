@@ -5,7 +5,9 @@ use std::io::prelude::*;
 // You entered hello world
 // DOES NOT RETURN ANYTHING
 fn echo_input() {
-    // Fill me out 
+    // Fill me out
+    let mut s = String::from("hello");
+    println!("You entered {}", s);
 }
 
 // Changes the input data to be uppercase
@@ -13,9 +15,12 @@ fn echo_input() {
 // DOES NOT RETURN ANYTHING
 fn uppercase() {
     // Fill me out
+    println!("{}", s.to_uppercase());
 }
 
 // Reads standard input and uppercases the input
 fn main() {
+    echo_input();
+    uppercase();
 }
 
