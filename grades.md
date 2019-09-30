@@ -10,3 +10,4 @@
 |Git I prelecture comprehension|2|3|
 |Git I lecture activities|3|3|
 |Git II prelecture comprehension|2|2|
+|Git II lecture activities|4|5|
