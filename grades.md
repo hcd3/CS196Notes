@@ -9,3 +9,4 @@
 |Animal Colors| 0|1|
 |Git I prelecture comprehension|2|3|
 |Git I lecture activities|3|3|
+|Git II prelecture comprehension|2|2|
