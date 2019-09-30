@@ -8,3 +8,4 @@
 |Animal Names|0 |1|
 |Animal Colors| 0|1|
 |Git I prelecture comprehension|2|3|
+|Git I lecture activities|3|3|
