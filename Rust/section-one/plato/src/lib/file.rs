@@ -56,6 +56,13 @@ pub fn get_time_last_modified(meta: &Metadata) -> DateTime<Local> {
 // Get the file size
 pub fn get_file_size(meta: &Metadata) -> u64 {
     // Fill me out !
+    // Code from Rust metadata documentation
+    fn main() -> std::io::Result<()> {
+        let metadata = fs::metadata("foo.txt")?;
+
+        assert_eq!(0, metadata.len());
+        Ok(())
+    }
 }
 
 // Get the file size but formatted to easily be read
