@@ -51,18 +51,13 @@ pub fn get_owning_user(meta: &Metadata) -> OsString {
 // Get the time this file was last modified
 pub fn get_time_last_modified(meta: &Metadata) -> DateTime<Local> {
     // Fill me out !
+    DateTime::from(meta.modified().expect("wrong Input"))
 }
 
 // Get the file size
 pub fn get_file_size(meta: &Metadata) -> u64 {
     // Fill me out !
-    // Code from Rust metadata documentation
-    fn main() -> std::io::Result<()> {
-        let metadata = fs::metadata("foo.txt")?;
-
-        assert_eq!(0, metadata.len());
-        Ok(())
-    }
+    meta.size()
 }
 
 // Get the file size but formatted to easily be read
