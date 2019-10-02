@@ -1,0 +1,40 @@
+{
+    "course_staff": [
+	{
+	    "name": "Rishi",
+	    "location": "BAY_AREA"
+	},
+	{
+	    "name": "Jackie",
+	    "location": "NAPERVILLE"
+	},
+	{
+	    "name": "Zac",
+	    "location": "NEW_JERSEY"
+	},
+	{
+	    "name": "Clara",
+	    "location": "BAY_AREA"
+	},
+	{
+	    "name": "PETER",
+	    "location": "BAY_AREA"
+	},
+	{
+	    "name": "Melissa",
+	    "location": "NAPERVILLE"
+	},
+	{
+	    "name": "Jatin",
+	    "location": "NAPERVILLE"
+	},
+	{
+	    "name": "Yash",
+	    "location": "BAY_AREA"
+	},
+	{
+	    "name": "Zach",
+	    "location": "NEW_JERSEY"
+	}
+    ]
+}
