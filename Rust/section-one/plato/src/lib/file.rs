@@ -41,23 +41,26 @@ fn triplet(mode: u32, read: u16, write: u16, execute: u16) -> String {
 // Get the permissions using the associate file metadata
 pub fn get_permissions(meta: &Metadata) ->  String {
     // Fill me out !
+    let permissions = metadata.permissions();
+    println!("Permissions", permissions.mode());
 }
 
 // Get the name of the owning user of this file
 pub fn get_owning_user(meta: &Metadata) -> OsString {
     // Fill me out !
+    meta.uid();
 }
 
 // Get the time this file was last modified
 pub fn get_time_last_modified(meta: &Metadata) -> DateTime<Local> {
     // Fill me out !
-    DateTime::from(meta.modified().expect("wrong Input"))
+    DateTime::from(meta.modified().expect("wrong Input"));
 }
 
 // Get the file size
 pub fn get_file_size(meta: &Metadata) -> u64 {
     // Fill me out !
-    meta.size()
+    meta.size();
 }
 
 // Get the file size but formatted to easily be read
